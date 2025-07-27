@@ -1,0 +1,12 @@
+.B1{
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+}
+.B2{
+    background-color: hsl(56, 93%, 56%);
+}
+.B1,
+.B2{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+}
