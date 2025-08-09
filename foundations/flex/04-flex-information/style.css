@@ -30,6 +30,7 @@ img {
   display: flex;
   justify-content: center;
   gap: 52px;
+  flex-wrap: wrap;
 }
 
 .info{
